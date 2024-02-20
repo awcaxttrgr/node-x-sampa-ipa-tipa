@@ -10,7 +10,7 @@ npm i -S x-sampa-ipa-tipa
 ```
 
 ```js
-const {xsampa2ipa, ipa2xsampa} = require('x-sampa-ipa');
+const {xsampa2ipa, ipa2xsampa} = require('x-sampa-ipa-tipa');
 ```
 
 ## API
