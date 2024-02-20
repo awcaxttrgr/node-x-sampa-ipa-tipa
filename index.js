@@ -105,7 +105,7 @@ function xsampa2tipa(text) {
   return workingText;
 }
 
-function ipa2xtipa(text) {
+function ipa2tipa(text) {
   let slicePositions = [];
   let closeBracketFlag;
   let workingText = text.replace(ipaRE, (ipa, p1, offset, stringT, groups) => {
@@ -161,5 +161,5 @@ module.exports = {
   xsampa2ipa,
   ipa2xsampa,
   xsampa2tipa,
-  ipa2xtipa
+  ipa2tipa
 };
