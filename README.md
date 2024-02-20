@@ -51,17 +51,19 @@ xsampa2tipa('m6d6j46'); // 'm5d5jR5'
 
 Converts a string from tipa to X-SAMPA.
 (To be implemented)
-<!-- ```js
-ipa2xsampa('mɐkˈabɾu'); // 'm6k"ab4u'
-``` -->
+
+```js
+tipa2xsampa('m5k"abRu'); // Doesn't work
+```
 
 ### tipa2ipa
 
 Converts a string from tipa to IPA.
 (To be implemented)
-<!-- ```js
-ipa2xsampa('mɐkˈabɾu'); // 'm6k"ab4u'
-``` -->
+
+```js
+tipa2ipa('m5d5jR5'); //  Doesn't work
+```
 
 ## Bugs and stuff
 
