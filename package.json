@@ -1,20 +1,22 @@
 {
-  "name": "x-sampa-ipa",
-  "version": "0.0.3",
-  "description": "X-SAMPA to IPA and IPA to X-SAMPA converter",
+  "name": "x-sampa-ipa-tipa",
+  "version": "0.0.1",
+  "description": "X-SAMPA, IPA and tipa converter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/andrefs/node-x-sampa-ipa.git"
+    "url": "git+ssh://git@github.com/awcaxttrgr/node-x-sampa-ipa-tipa.git"
   },
   "keywords": [
     "phonetics",
     "X-SAMPA",
-    "IPA"
+    "IPA",
+    "tipa"
   ],
   "author": "André Santos",
+  "contributors": ["A Axtträger"],
   "license": "ISC"
 }

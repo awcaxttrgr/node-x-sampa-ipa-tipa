@@ -1,19 +1,17 @@
-# x-sampa-ipa
+# x-sampa-ipa-tipa
 
-X-SAMPA to IPA and IPA to X-SAMPA converter.
+X-SAMPA, IPA and tipa converter.
+This is a fork of the ```x-sampa-ipa``` package by André Santos <andrefs@andrefs.com>
 
 ## Install
 
 ```shell
-npm i -S x-sampa-ipa
+npm i -S x-sampa-ipa-tipa
 ```
 
 ```js
 const {xsampa2ipa, ipa2xsampa} = require('x-sampa-ipa');
 ```
-
-[Try it in your browser](https://npm.runkit.com/x-sampa-ipa)
-
 
 ## API
 
@@ -33,12 +31,51 @@ Converts a string from IPA to X-SAMPA.
 ipa2xsampa('mɐkˈabɾu'); // 'm6k"ab4u'
 ```
 
+### ipa2tipa
+
+Converts a string from IPA to tipa.
+
+```js
+ipa2tipa('mɐkˈabɾu'); // 'm5k"abRu'
+```
+
+### xsampa2tipa
+
+Converts a string from X-SAMPA to tipa.
+
+```js
+xsampa2tipa('m6d6j46'); // 'm5d5jR5'
+```
+
+### tipa2xsampa
+
+Converts a string from tipa to X-SAMPA.
+(To be implemented)
+<!-- ```js
+ipa2xsampa('mɐkˈabɾu'); // 'm6k"ab4u'
+``` -->
+
+### tipa2ipa
+
+Converts a string from tipa to IPA.
+(To be implemented)
+<!-- ```js
+ipa2xsampa('mɐkˈabɾu'); // 'm6k"ab4u'
+``` -->
 
 ## Bugs and stuff
 
-Open a GitHub issue or, preferably, send me a pull request.
+Axtträger: This is a quick modification of the original code for my own purposes. If anything, I will not fix any bugs or take pull requests for this fork, unless I too need the same thing fixed.
+
+AS: Open a GitHub issue or, preferably, send me a pull request.
+
+### Known issues
+
+* Tie bars (double affrication/affricate) in IPA (unicode) cannot be converted to tipa properly.
 
 ## License
+
+Derivative work by 2024 A Axtträger
 
 The MIT License (MIT)
 

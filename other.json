@@ -2,240 +2,285 @@
   {
     "X-SAMPA": ".",
     "IPA": ".",
+    "tipa": ".",
     "Description": "syllable break",
     "Example": ""
   },
   {
     "X-SAMPA": "\"",
     "IPA": "ˈ",
+    "tipa": "\"",
     "Description": "primary stress",
     "Example": ""
   },
   {
     "X-SAMPA": "%",
     "IPA": "ˌ",
+    "tipa": "\"\"",
     "Description": "secondary stress",
     "Example": ""
   },
   {
     "X-SAMPA": "'",
     "IPA": "ʲ",
+    "tipa": "\\super j",
     "Description": "palatalized",
     "Example": ""
   },
   {
     "X-SAMPA": ":",
     "IPA": "ː",
+    "tipa": ":",
     "Description": "long",
     "Example": ""
   },
   {
     "X-SAMPA": ":\\",
     "IPA": "ˑ",
+    "tipa": ";",
     "Description": "half long",
     "Example": "Estonian differentiates three vowel lengths"
   },
   {
-    "X-SAMPA": "-",
+    "X-SAMPA": "-(?!\\)",
     "IPA": "",
+    "tipa": "",
     "Description": "separator",
     "Example": "Polish trzy [t-S1] vs. czy [tS1] (affricate)"
   },
   {
     "X-SAMPA": "@",
     "IPA": "ə",
+    "tipa": "@",
     "Description": "schwa",
     "Example": "English arena [@\"r\\i:n@]"
   },
   {
     "X-SAMPA": "@\\",
     "IPA": "ɘ",
+    "tipa": "9",
     "Description": "close-mid central unrounded vowel",
     "Example": "Paicĩ kɘ̄ɾɘ [k@\\_M4@\\_M]"
   },
   {
     "X-SAMPA": "@`",
     "IPA": "ɚ",
+    "tipa": "\\textrhookschwa",
     "Description": "r-coloured schwa",
     "Example": "American English color [\"kVl@`]"
   },
   {
     "X-SAMPA": "{",
     "IPA": "æ",
+    "tipa": "\\ae",
     "Description": "near-open front unrounded vowel",
     "Example": "English trap [tr\\{p]"
   },
   {
     "X-SAMPA": "}",
     "IPA": "ʉ",
+    "tipa": "0",
     "Description": "close central rounded vowel",
     "Example": "Swedish sju [x\\}:]; AuE/NZE boot [b}:t]"
   },
   {
     "X-SAMPA": 1,
     "IPA": "ɨ",
+    "tipa": "1",
     "Description": "close central unrounded vowel",
     "Example": "Welsh tu [t1], American English rose's [\"r\\oUz1z]"
   },
   {
     "X-SAMPA": 2,
     "IPA": "ø",
+    "tipa": "\\o",
     "Description": "close-mid front rounded vowel",
     "Example": "Danish købe [\"k2:b@], French deux [d2]"
   },
   {
     "X-SAMPA": 3,
     "IPA": "ɜ",
+    "tipa": "3",
     "Description": "open-mid central unrounded vowel",
     "Example": "English nurse [n3:s] (RP) or [n3`s] (Gen.Am.)"
   },
   {
     "X-SAMPA": "3\\",
     "IPA": "ɞ",
+    "tipa": "\\textcloseepsilon",
     "Description": "open-mid central rounded vowel",
     "Example": "Irish tomhail [t3\\:l']"
   },
   {
     "X-SAMPA": 4,
     "IPA": "ɾ",
+    "tipa": "R",
     "Description": "alveolar flap",
     "Example": "Spanish pero [\"pe4o], American English better [\"bE4@`]"
   },
   {
     "X-SAMPA": 5,
     "IPA": "ɫ",
+    "tipa": "\\|~l",
     "Description": "velarized alveolar lateral approximant; also see _e",
     "Example": "English milk [mI5k], Portuguese livro [\"5iv4u]"
   },
   {
     "X-SAMPA": 6,
     "IPA": "ɐ",
+    "tipa": "5",
     "Description": "near-open central vowel",
     "Example": "German besser [\"bEs6], Australian English mud [m6d]"
   },
   {
     "X-SAMPA": 7,
     "IPA": "ɤ",
+    "tipa": "7",
     "Description": "close-mid back unrounded vowel",
     "Example": "Estonian kõik [k7ik], Vietnamese mơ [m7_M]"
   },
   {
     "X-SAMPA": 8,
     "IPA": "ɵ",
+    "tipa": "8",
     "Description": "close-mid central rounded vowel",
     "Example": "Swedish buss [b8s]"
   },
   {
     "X-SAMPA": 9,
     "IPA": "œ",
+    "tipa": "\\oe",
     "Description": "open-mid front rounded vowel",
     "Example": "French neuf [n9f], Danish drømme [dR9m@]"
   },
   {
     "X-SAMPA": "&",
     "IPA": "ɶ",
+    "tipa": "\\OE",
     "Description": "open front rounded vowel",
     "Example": "Swedish skörd [x\\&d`]"
   },
   {
     "X-SAMPA": "?",
     "IPA": "ʔ",
+    "tipa": "P",
     "Description": "glottal stop",
     "Example": "Cockney English bottle [\"bQ?o]"
   },
   {
     "X-SAMPA": "?\\",
     "IPA": "ʕ",
+    "tipa": "Q",
     "Description": "voiced pharyngeal fricative",
     "Example": "Arabic  ع (`ayn) [?\\Ajn]"
   },
   {
     "X-SAMPA": "*",
     "IPA": "",
+    "tipa": "",
     "Description": "undefined escape character, SAMPA's \"conjunctor",
     "Example": ""
   },
   {
     "X-SAMPA": "/",
     "IPA": "",
+    "tipa": "",
     "Description": "indeterminacy in French vowels",
     "Example": ""
   },
   {
     "X-SAMPA": "<",
     "IPA": "",
+    "tipa": "",
     "Description": "begin nonsegmental notation (e.g., SAMPROSA)",
     "Example": ""
   },
   {
     "X-SAMPA": "<\\",
     "IPA": "ʢ",
+    "tipa": "\\textbarrevglotstop",
     "Description": "voiced epiglottal fricative",
     "Example": ""
   },
   {
     "X-SAMPA": ">",
     "IPA": "",
+    "tipa": "",
     "Description": "end nonsegmental notation",
     "Example": ""
   },
   {
     "X-SAMPA": ">\\",
     "IPA": "ʡ",
+    "tipa": "\\textbarglotstop",
     "Description": "epiglottal plosive",
     "Example": ""
   },
   {
     "X-SAMPA": "^",
     "IPA": "ꜛ",
+    "tipa": "\\textupstep",
     "Description": "upstep",
     "Example": ""
   },
   {
     "X-SAMPA": "!",
     "IPA": "ꜜ",
+    "tipa": "\\textdownstep",
     "Description": "downstep",
     "Example": ""
   },
   {
     "X-SAMPA": "!\\",
     "IPA": "ǃ",
+    "tipa": "!",
     "Description": "postalveolar click",
     "Example": ""
   },
   {
     "X-SAMPA": "|",
     "IPA": "|",
+    "tipa": "|",
     "Description": "minor (foot) group",
     "Example": ""
   },
   {
     "X-SAMPA": "|\\",
     "IPA": "ǀ",
+    "tipa": "|",
     "Description": "dental click",
     "Example": ""
   },
   {
     "X-SAMPA": "||",
     "IPA": "‖",
+    "tipa": "\\textdoublevertline",
     "Description": "major (intonation) group",
     "Example": ""
   },
   {
     "X-SAMPA": "|\\|\\",
     "IPA": "ǁ",
+    "tipa": "||",
     "Description": "alveolar lateral click",
     "Example": ""
   },
   {
     "X-SAMPA": "=\\",
     "IPA": "ǂ",
+    "tipa": "\\textdoublebarpipe",
     "Description": "palatal click",
     "Example": ""
   },
   {
     "X-SAMPA": "-\\",
     "IPA": "‿",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "infix",
+      "macro": "\\t",
+      "brackets": true
+    },
     "Description": "linking mark",
     "Example": ""
   }

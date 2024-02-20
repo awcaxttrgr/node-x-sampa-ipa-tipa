@@ -2,246 +2,287 @@
   {
     "X-SAMPA": "A",
     "IPA": "ɑ",
+    "tipa": "A",
     "Description": "open back unrounded vowel",
     "Example": "English father [\"fA:D@(r\\)] (RP and Gen.Am.)"
   },
   {
     "X-SAMPA": "B",
     "IPA": "β",
+    "tipa": "B",
     "Description": "voiced bilabial fricative",
     "Example": "Spanish lavar [la\"Ba4]"
   },
   {
     "X-SAMPA": "B\\",
     "IPA": "ʙ",
+    "tipa": "\\;B",
     "Description": "bilabial trill",
     "Example": "Reminiscent of shivering (\"brrr\")"
   },
   {
     "X-SAMPA": "C",
     "IPA": "ç",
+    "tipa": "\\c{c}",
     "Description": "voiceless palatal fricative",
     "Example": "German ich [IC], English human [\"Cjum@n] (broad transcription uses [hj-])"
   },
   {
     "X-SAMPA": "D",
     "IPA": "ð",
+    "tipa": "D",
     "Description": "voiced dental fricative",
     "Example": "English then [DEn]"
   },
   {
     "X-SAMPA": "E",
     "IPA": "ɛ",
+    "tipa": "E",
     "Description": "open-mid front unrounded vowel",
     "Example": "French même [mEm], English met [mEt] (RP and Gen.Am.)"
   },
   {
     "X-SAMPA": "F",
     "IPA": "ɱ",
+    "tipa": "M",
     "Description": "labiodental nasal",
     "Example": "English emphasis [\"EFf@sIs] (spoken quickly, otherwise uses [Emf-])"
   },
   {
     "X-SAMPA": "G",
     "IPA": "ɣ",
+    "tipa": "G",
     "Description": "voiced velar fricative",
     "Example": "Greek γωνία [Go\"nia]"
   },
   {
     "X-SAMPA": "G\\",
     "IPA": "ɢ",
+    "tipa": "\\;G",
     "Description": "voiced uvular plosive",
     "Example": "Inuktitut nirivvik [niG\\ivvik]"
   },
   {
     "X-SAMPA": "G\\_<",
     "IPA": "ʛ",
+    "tipa": "\\!G",
     "Description": "voiced uvular implosive",
     "Example": "Mam ʛa [G\\_<a]"
   },
   {
     "X-SAMPA": "H",
     "IPA": "ɥ",
+    "tipa": "4",
     "Description": "labial-palatal approximant",
     "Example": "French huit [Hit]"
   },
   {
     "X-SAMPA": "H\\",
     "IPA": "ʜ",
+    "tipa": "\\;H",
     "Description": "voiceless epiglottal fricative",
     "Example": ""
   },
   {
     "X-SAMPA": "I",
     "IPA": "ɪ",
+    "tipa": "I",
     "Description": "near-close front unrounded vowel",
     "Example": "English kit [kIt]"
   },
   {
     "X-SAMPA": "I\\",
     "IPA": "ᵻ",
+    "tipa": "\\ipabar{{\\tipaencoding I}}{.5ex}{.55}{}{.55}",
     "Description": "near-close central unrounded vowel (non-IPA)",
     "Example": "Polish ryba [rI\\bA]"
   },
   {
     "X-SAMPA": "J",
     "IPA": "ɲ",
+    "tipa": "\\textltailn",
     "Description": "palatal nasal",
     "Example": "Spanish año [\"aJo], English canyon [\"k{J@n] (broad transcription uses [-nj-])"
   },
   {
     "X-SAMPA": "J\\",
     "IPA": "ɟ",
+    "tipa": "\\textbardotlessj",
     "Description": "voiced palatal plosive",
     "Example": "Hungarian egy [EJ\\]"
   },
   {
     "X-SAMPA": "J\\_<",
     "IPA": "ʄ",
+    "tipa": "\\!j",
     "Description": "voiced palatal implosive",
     "Example": "Sindhi ʄaro [J\\_<aro]"
   },
   {
     "X-SAMPA": "K",
     "IPA": "ɬ",
+    "tipa": "\\textbeltl",
     "Description": "voiceless alveolar lateral fricative",
     "Example": "Welsh llaw [KaU]"
   },
   {
     "X-SAMPA": "K\\",
     "IPA": "ɮ",
+    "tipa": "\\textlyoghlig",
     "Description": "voiced alveolar lateral fricative",
     "Example": "Mongolian долоо [tOK\\O:]"
   },
   {
     "X-SAMPA": "L",
     "IPA": "ʎ",
+    "tipa": "L",
     "Description": "palatal lateral approximant",
     "Example": "Italian famiglia [fa\"miLLa], Castilian llamar [La\"mar]"
   },
   {
     "X-SAMPA": "L\\",
     "IPA": "ʟ",
+    "tipa": "\\;L",
     "Description": "velar lateral approximant",
     "Example": ""
   },
   {
     "X-SAMPA": "M",
     "IPA": "ɯ",
+    "tipa": "W",
     "Description": "close back unrounded vowel",
     "Example": "Korean 음식 [M:ms\\_hik_}]"
   },
   {
     "X-SAMPA": "M\\",
     "IPA": "ɰ",
+    "tipa": "\\textturnmrleg",
     "Description": "velar approximant",
     "Example": "Spanish fuego [\"fweM\\o]"
   },
   {
     "X-SAMPA": "N",
     "IPA": "ŋ",
+    "tipa": "N",
     "Description": "velar nasal",
     "Example": "English thing [TIN]"
   },
   {
     "X-SAMPA": "N\\",
     "IPA": "ɴ",
+    "tipa": "\\;N",
     "Description": "uvular nasal",
     "Example": "Japanese san [saN\\]"
   },
   {
     "X-SAMPA": "O",
     "IPA": "ɔ",
+    "tipa": "O",
     "Description": "open-mid back rounded vowel",
     "Example": "American English off [O:f]"
   },
   {
     "X-SAMPA": "O\\",
     "IPA": "ʘ",
+    "tipa": "\\!o",
     "Description": "bilabial click",
     "Example": ""
   },
   {
     "X-SAMPA": "P",
     "IPA": "ʋ",
+    "tipa": "V",
     "Description": "labiodental approximant",
     "Example": "Dutch west [PEst]/[v\\Est], allophone of English phoneme /r\\/"
   },
   {
     "X-SAMPA": "Q",
     "IPA": "ɒ",
+    "tipa": "6",
     "Description": "open back rounded vowel",
     "Example": "RP lot [lQt]"
   },
   {
     "X-SAMPA": "R",
     "IPA": "ʁ",
+    "tipa": "K",
     "Description": "voiced uvular fricative",
     "Example": "German rein [RaIn]"
   },
   {
     "X-SAMPA": "R\\",
     "IPA": "ʀ",
+    "tipa": "\\;R",
     "Description": "uvular trill",
     "Example": "French roi [R\\wa]"
   },
   {
     "X-SAMPA": "S",
     "IPA": "ʃ",
+    "tipa": "S",
     "Description": "voiceless postalveolar fricative",
     "Example": "English ship [SIp]"
   },
   {
     "X-SAMPA": "T",
     "IPA": "θ",
+    "tipa": "T",
     "Description": "voiceless dental fricative",
     "Example": "English thin [TIn]"
   },
   {
     "X-SAMPA": "U",
     "IPA": "ʊ",
+    "tipa": "U",
     "Description": "near-close back rounded vowel",
     "Example": "English foot [fUt]"
   },
   {
     "X-SAMPA": "U\\",
     "IPA": "ᵿ",
+    "tipa": "\\ipabar{{\\tipaencoding U}}{.5ex}{.55}{}{.55}",
     "Description": "near-close central rounded vowel (non-IPA)",
     "Example": "English  euphoria  [jU\\\"fO@r\\i@]"
   },
   {
     "X-SAMPA": "V",
     "IPA": "ʌ",
+    "tipa": "2",
     "Description": "open-mid back unrounded vowel",
     "Example": "Scottish English strut [str\\Vt]"
   },
   {
     "X-SAMPA": "W",
     "IPA": "ʍ",
+    "tipa": "\\*w",
     "Description": "voiceless labial-velar fricative",
     "Example": "Scots when [WEn]"
   },
   {
     "X-SAMPA": "X",
     "IPA": "χ",
+    "tipa": "X",
     "Description": "voiceless uvular fricative",
     "Example": "Klallam sχaʔqʷaʔ [sXa?q_wa?]"
   },
   {
     "X-SAMPA": "X\\",
     "IPA": "ħ",
+    "tipa": "\\textcrh",
     "Description": "voiceless pharyngeal fricative",
     "Example": "Arabic <ح>ha’ [X\\A:]"
   },
   {
     "X-SAMPA": "Y",
     "IPA": "ʏ",
+    "tipa": "Y",
     "Description": "near-close front rounded vowel",
     "Example": "German hübsch [hYpS]"
   },
   {
     "X-SAMPA": "Z",
     "IPA": "ʒ",
+    "tipa": "Z",
     "Description": "voiced postalveolar fricative",
     "Example": "English vision [\"vIZ@n]"
   }

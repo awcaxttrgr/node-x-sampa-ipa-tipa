@@ -1,242 +1,460 @@
 [
   {
-    "X-SAMPA": "_",
+    "X-SAMPA": "_\"",
     "IPA": "̈",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\\"",
+      "brackets": false
+    },
     "Description": "centralized"
   },
   {
     "X-SAMPA": "_+",
     "IPA": "̟",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|+",
+      "brackets": false
+    },
     "Description": "advanced"
   },
   {
     "X-SAMPA": "_-",
     "IPA": "̠",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\=*",
+      "brackets": false
+    },
     "Description": "retracted"
   },
   {
     "X-SAMPA": "_/",
     "IPA": "̌",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\v",
+      "brackets": true
+    },
     "Description": "rising tone"
   },
   {
     "X-SAMPA": "_0",
     "IPA": "̥",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\r*",
+      "brackets": false
+    },
     "Description": "voiceless"
   },
   {
     "X-SAMPA": "_<",
     "IPA": "",
+    "tipa": "̈",
     "Description": "implosive (IPA uses separate symbols for implosives)"
   },
   {
     "X-SAMPA": "_=",
     "IPA": "̩",
+    "tipa": "̈",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\s",
+      "brackets": true
+    },
     "Description": "syllabic"
   },
   {
     "X-SAMPA": "_>",
     "IPA": "ʼ",
+    "tipa": "̈'",
     "Description": "ejective"
   },
   {
     "X-SAMPA": "_?\\",
     "IPA": "ˤ",
+    "tipa": "̈\\super Q ",
     "Description": "pharyngealized"
   },
   {
     "X-SAMPA": "_\\",
     "IPA": "̂",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\^",
+      "brackets": false
+    },
     "Description": "falling tone"
   },
   {
     "X-SAMPA": "_^",
     "IPA": "̯",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\textsubarch",
+      "brackets": true
+    },
     "Description": "non-syllabic"
   },
   {
     "X-SAMPA": "_}",
     "IPA": "̚",
+    "tipa": "\\textcorner",
     "Description": "no audible release"
   },
   {
     "X-SAMPA": "`",
     "IPA": "˞",
+    "tipa": "\\textrhoticity",
     "Description": "rhotacization in vowels, retroflexion in consonants (IPA uses separate symbols for consonants, see t` for an example)"
   },
   {
     "X-SAMPA": "_~",
     "IPA": "̃",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\~",
+      "brackets": false
+    },
     "Description": "nasalization"
   },
   {
     "X-SAMPA": "_A",
     "IPA": "̘",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|<",
+      "brackets": false
+    },
     "Description": "advanced tongue root"
   },
   {
     "X-SAMPA": "_a",
     "IPA": "̺",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "",
+      "brackets": false
+    },
     "Description": "apical"
   },
   {
     "X-SAMPA": "_B",
     "IPA": "̏",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\H*",
+      "brackets": false
+    },
     "Description": "extra low tone"
   },
   {
     "X-SAMPA": "_B_L",
     "IPA": "᷅",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\textlowrise",
+      "brackets": true
+    },
     "Description": "low rising tone"
   },
   {
     "X-SAMPA": "_c",
     "IPA": "̜",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|(",
+      "brackets": false
+    },
     "Description": "less rounded"
   },
   {
     "X-SAMPA": "_d",
     "IPA": "̪",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|[",
+      "brackets": false
+    },
     "Description": "dental"
   },
   {
     "X-SAMPA": "_e",
     "IPA": "̴",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|textsuperimposetilde",
+      "brackets": true
+    },
     "Description": "velarized or pharyngealized; also see 5"
   },
   {
     "X-SAMPA": "<F>",
     "IPA": "↘",
+    "tipa": "\\textglobalfall",
     "Description": "global fall"
   },
   {
     "X-SAMPA": "_F",
     "IPA": "̂",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\^",
+      "brackets": false
+    },
     "Description": "falling tone"
   },
   {
     "X-SAMPA": "_G",
     "IPA": "ˠ",
+    "tipa": "\\super G",
     "Description": "velarized"
   },
   {
     "X-SAMPA": "_H",
     "IPA": "́",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\'",
+      "brackets": false
+    },
     "Description": "high tone"
   },
   {
     "X-SAMPA": "_H_T",
     "IPA": "᷄",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\texthighrise",
+      "brackets": true
+    },
     "Description": "high rising tone"
   },
   {
     "X-SAMPA": "_h",
     "IPA": "ʰ",
+    "tipa": "\\super h",
     "Description": "aspirated"
   },
   {
     "X-SAMPA": "_j",
     "IPA": "ʲ",
+    "tipa": "\\super j",
     "Description": "palatalized"
   },
   {
     "X-SAMPA": "_k",
     "IPA": "̰",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\~*",
+      "brackets": false
+    },
     "Description": "creaky voice"
   },
   {
     "X-SAMPA": "_L",
     "IPA": "̀",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\`",
+      "brackets": false
+    },
     "Description": "low tone"
   },
   {
     "X-SAMPA": "_l",
     "IPA": "ˡ",
+    "tipa": "\\super l",
     "Description": "lateral release"
   },
   {
     "X-SAMPA": "_M",
     "IPA": "̄",
+    "tipa": "\\=",
     "Description": "mid tone"
   },
   {
     "X-SAMPA": "_m",
     "IPA": "̻",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\textsubsquare",
+      "brackets": true
+    },
     "Description": "laminal"
   },
   {
     "X-SAMPA": "_N",
     "IPA": "̼",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|m",
+      "brackets": true
+    },
     "Description": "linguolabial"
   },
   {
     "X-SAMPA": "_n",
     "IPA": "ⁿ",
+    "tipa": "\\super n",
     "Description": "nasal release"
   },
   {
     "X-SAMPA": "_O",
     "IPA": "̹",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|)",
+      "brackets": false
+    },
     "Description": "more rounded"
   },
   {
     "X-SAMPA": "_o",
     "IPA": "̞",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|`",
+      "brackets": false
+    },
     "Description": "lowered"
   },
   {
     "X-SAMPA": "_q",
     "IPA": "̙",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|>",
+      "brackets": false
+    },
     "Description": "retracted tongue root"
   },
   {
     "X-SAMPA": "<R>",
     "IPA": "↗",
+    "tipa": "\\textglobrise",
     "Description": "global rise"
   },
   {
     "X-SAMPA": "_R",
     "IPA": "̌",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "",
+      "brackets": false
+    },
     "Description": "rising tone"
   },
   {
     "X-SAMPA": "_R_F",
     "IPA": "᷈",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\textrisefall",
+      "brackets": false
+    },
     "Description": "rising falling tone"
   },
   {
     "X-SAMPA": "_r",
     "IPA": "̝",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|'",
+      "brackets": false
+    },
     "Description": "raised"
   },
   {
     "X-SAMPA": "_T",
     "IPA": "̋",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\H",
+      "brackets": true
+    },
     "Description": "extra high tone"
   },
   {
     "X-SAMPA": "_t",
     "IPA": "̤",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\\"*",
+      "brackets": false
+    },
     "Description": "breathy voice"
   },
   {
     "X-SAMPA": "_v",
     "IPA": "̬",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\v*",
+      "brackets": false
+    },
     "Description": "voiced"
   },
   {
     "X-SAMPA": "_w",
     "IPA": "ʷ",
+    "tipa": "\\super w",
     "Description": "labialized"
   },
   {
     "X-SAMPA": "_X",
     "IPA": "̆",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\u",
+      "brackets": true
+    },
     "Description": "extra-short"
   },
   {
     "X-SAMPA": "_x",
     "IPA": "̽",
+    "tipa": "",
+    "tipaAdvanced": {
+      "param": "prefix",
+      "macro": "\\|x",
+      "brackets": true
+    },
     "Description": "mid-centralized"
   }
 ]
